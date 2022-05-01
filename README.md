@@ -1,3 +1,3 @@
 # seminar
 
-i change the folder.
+new area for seminar.
